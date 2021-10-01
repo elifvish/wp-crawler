@@ -1,0 +1,28 @@
+{
+  "name": "wp-crawler",
+  "version": "0.0.1",
+  "description": "Crawl WP pages and posts to take screenshots in different screen sizes.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggarwaldev/wp-crawler.git"
+  },
+  "author": "Dev Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggarwaldev/wp-crawler/issues"
+  },
+  "homepage": "https://github.com/aggarwaldev/wp-crawler/issues#readme",
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.2",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.3.0"
+  }
+}
